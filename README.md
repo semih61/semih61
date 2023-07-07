@@ -1,5 +1,4 @@
-
-Fotoğraf ekleme : [![MasterHead](https://gist.github.com/brettlangdon/85942af486eb79118467#file-06b3fma-jpg)
+[![MasterHead](https://pixabay.com/photos/milky-way-stars-night-sky-2695569/)
 
 <h3 align="center">A passionate web developer from Turkey.</h3>
 
