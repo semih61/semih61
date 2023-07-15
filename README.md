@@ -1,4 +1,4 @@
-<h3 align="center">A passionate web developer from Turkey.</h3>
+
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
