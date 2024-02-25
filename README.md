@@ -1,6 +1,5 @@
 
 
-- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **semihseliim@gmail.com**
 
